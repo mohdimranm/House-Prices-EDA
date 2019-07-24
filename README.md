@@ -1,1 +1,1 @@
-# House-Prices-EDA
+# Houses-Prices-EDA
